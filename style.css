@@ -5,7 +5,16 @@ width: 4.0rem;
 
 }
 .navbar-personalizado{
+    transition: all 1s ease-in-out;
 background-color:silver;
+}
+.footer{
+text-align: center; 
+padding: 10px;
+background-color:darkgrey;
+}
 
 
+.card-center {
+    align-items: center;
 }
